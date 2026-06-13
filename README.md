@@ -1,6 +1,6 @@
 ## About me [![](https://visitcount.itsvg.in/api?id=FelixGerberding&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Former Software Engineer now in Management Consulting. I am a strategic thinker with a strong technical background and help businesses finding creative solutions to complex challenges at AWS. 
+TAM at AWS in Berlin. I speak about agentic AI in production, serverless architecture, and operational lessons from large enterprise cloud.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/felix-gerberding) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/FelixGerberding) 
